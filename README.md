@@ -1,0 +1,2 @@
+# jsKatas
+random javascript fun!
